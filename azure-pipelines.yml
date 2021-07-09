@@ -1,0 +1,25 @@
+# Starter pipeline
+- task: AzureStaticWebApp@0
+  inputs:
+    app_location: 'https://white-smoke-0f90c0800.azurestaticapps.net'
+    api_location: 'public'
+    skip_app_build: true
+    azure_static_web_apps_api_token: 'dfb5ef977c9f325ae8df9ed830e18bbe8ddfecbb6b055f3468b0e61568fbcb170-fa8d4707-fe22-483e-8616-842087c5731800010393'
+# Start with a minimal pipeline that you can customize to build and deploy your code.
+# Add steps that build, run tests, deploy, and more:
+# https://aka.ms/yaml
+
+trigger:
+- master
+
+pool:
+  vmImage: ubuntu-latest
+
+steps:
+- script: echo Hello, world!
+  displayName: 'Run a one-line script'
+
+- script: |
+    echo Add other tasks to build, test, and deploy your project.
+    echo See https://aka.ms/yaml
+  displayName: 'Run a multi-line script'
