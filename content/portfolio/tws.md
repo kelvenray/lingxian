@@ -1,10 +1,10 @@
 ---
-title: "TWS"
-date: 2021-07-09T10:28:20+08:00
+title: "Sport TWS"
+date: 2022-04-08T10:28:20+08:00
 type: portfolio
-image: "images/projects/product-thumb-TA02-PINK.jpg"
+image: "images/projects/product-thumb-R200-2.jpg"
 category: ["TWS"]
-project_images: ["images/projects/product-thumb-TA02-PINK.jpg", "images/projects/product-thumb-TA-WHITE.png"]
+project_images: ["images/projects/product-thumb-R200.jpg", "images/projects/product-thumb-R200-2.jpg"]
 ---
 
-The TWS
+The Sport TWS

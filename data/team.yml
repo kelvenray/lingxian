@@ -1,23 +1,23 @@
 enable  : true
 title   : Team that makes the difference.
 members  :
-  - image       : images/team/team-member-one.jpg
-    name        : Kelven Xie
-    designation : Creative Director
+  - image       : images/team/nagao.jpg
+    name        : Nagao Takano
+    designation : CEO
     medium      : https://www.medium.com/
     linkedIn    : https://www.linkedin.com/
     instagram   : https://www.instagram.com/
 
-  - image       : images/team/team-member-two.jpg
-    name        : Rainy Liu
-    designation : Sales Director
+  - image       : images/team/hiromi.jpg
+    name        : Hiromi Reina
+    designation : Marketing Director
     medium      : https://www.medium.com/
     linkedIn    : https://www.linkedin.com/
     instagram   : https://www.instagram.com/
 
-  - image       : images/team/team-member-three.jpg
-    name        : Denny Su
-    designation : Chief Design Officer
+  - image       : images/team/wataru.jpg
+    name        : Wataru Tanabe
+    designation : COO
     medium      : https://www.medium.com/
     linkedIn    : https://www.linkedin.com/
     instagram   : https://www.instagram.com/
