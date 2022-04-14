@@ -1,4 +1,4 @@
-baseURL       = "http://18.166.249.223/"
+baseURL       = "https://sinsou.onrender.com/"
 languageCode  = "en-us"
 title         = "SINSOU | Lead to a better life"
 theme         = "roxo"
